@@ -1,6 +1,6 @@
 # BTEPL-utils
 <p align="center">
-  <img src="[https://i.postimg.cc/dVmL261C/2025-01-0504-11-47-ezgif-com-optimize.gif](https://i.postimg.cc/dVmL261C/2025-01-0504-11-47-ezgif-com-optimize.gif)">
+  <img src="https://i.postimg.cc/dVmL261C/2025-01-0504-11-47-ezgif-com-optimize.gif">
 </p>
 
 #### /side <arg> <arg> <length>
