@@ -1,0 +1,9 @@
+name: BlockReplacerPlugin
+version: 1.0
+main: btepl.utils.bTEPLUtils.BlockReplacerPlugin
+api-version: 1.18
+depend: [WorldEdit]
+commands:
+  side:
+    description: Replaces blocks in the selection with a specific material.
+    usage: /side <targetMaterial> <sideMaterial> <sideLength>

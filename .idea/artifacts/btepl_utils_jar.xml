@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="btepl-utils:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/btepl_utils_jar</output-path>
+    <root id="archive" name="btepl-utils.jar">
+      <element id="module-output" name="btepl-utils" />
+    </root>
+  </artifact>
+</component>
