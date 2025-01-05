@@ -2,15 +2,17 @@
 Developed for BTE Poland<br>
 Tested on version 1.18.2 Paper/Purpur
 
-#### /side [Block-ID] [Block-ID] [Direction (facing of player)] -> Replaces blocks like worldedit with < but sideways
-
+# Commands
+- /side [Block-ID] [Block-ID] [Direction (facing of player)] -> Replaces blocks like worldedit with < but sideways
+- More planned
+  
 #### Example of usage
 | Command                | First Parameter | Secound Parameter     | Length                |
 | :--------       | :--------       | :-------              | :---------------------|
 | `/side` | `red_wool` | `blue_wool` | `4` |
 
 # Dependencies
-### Worldedit or FAWE
+-  Worldedit or FAWE
 
 # Screenshots
 <p>
